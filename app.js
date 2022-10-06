@@ -144,7 +144,7 @@ function getTodos()
     todoList.appendChild(todoDiv);
     })
 }
-
+//
 function removeLocalTodos(todo)
 {
     let todos;
