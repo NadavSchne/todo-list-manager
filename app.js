@@ -140,6 +140,7 @@ function getTodos()
     trashBtn.classList.add("trash-btn");
     todoDiv.appendChild(trashBtn);
 
+    
     //append to list;
     todoList.appendChild(todoDiv);
     })
